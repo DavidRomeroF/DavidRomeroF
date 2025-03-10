@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
-  <img src="https://cas-training.com/certificaciones-aws-amazon-web-services/" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cas-training.com/wp-content/uploads/2024/04/logo-aws-white.png" height="30" alt="amazonwebservices logo"  />
 </div>
 
 ###
