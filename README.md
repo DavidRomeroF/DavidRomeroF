@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/david-romero-forcada-3a8b922a4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/DavidRomeroF/DavidRomeroF/6463a7ace047893d2f9399ef994a20a39122d3b2/snake.svg" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
