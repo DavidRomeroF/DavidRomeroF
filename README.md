@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8dcbf14-52bb-42ba-87b0-e8bf258aa8aa)# 💫 About Me:
+# 💫 About Me:
 🧠 Estoy estudiando DAM y aprendiendo a programar bien  <br>🤝 Me gustaría participar en proyectos para practicar  <br>📚 Estoy con Java, JavaFX, Git y bases de datos  <br>💬 Pregúntame sobre cosas básicas de programación  <br>⚡ Empecé montando ordenadores y ahora quiero aprender a hacer programas
 
 
