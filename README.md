@@ -18,4 +18,4 @@
   <img src="https://github.com/user-attachments/assets/bda981c2-7a76-4695-85d5-40cd1f576a52" alt="AWS Cloud Quest: Cloud Practitioner" height="100px" style="height:100px; width:auto;">
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=DavidRomeroF&icon=0&color=1)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=DavidRomeroF&color=blue)
