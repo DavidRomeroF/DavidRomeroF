@@ -17,6 +17,6 @@
 
 # 💼 Certifications
 <a href="https://www.credly.com/badges/03797cdc-1407-40b1-831d-c025ee7b29d9/linked_in_profile" target="_blank">
-  <img src="https://github.com/user-attachments/assets/bda981c2-7a76-4695-85d5-40cd1f576a52" alt="AWS Cloud Quest: Cloud Practitioner" height="60px" style="height:80px; width:auto;">
+  <img src="https://github.com/user-attachments/assets/bda981c2-7a76-4695-85d5-40cd1f576a52" alt="AWS Cloud Quest: Cloud Practitioner" height="100px" style="height:100px; width:auto;">
 </a>
 
