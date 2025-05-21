@@ -36,7 +36,7 @@
   <img src="https://github.com/user-attachments/assets/a39f5722-7ffa-484d-af25-873f2f35fdde" alt="AWS Cloud Quest: Security Foundations" height="100px" style="height:100px; width:auto;">
 </a>
 <a href="https://enlace-certificado-POO" target="_blank">
-  <img src="https://img.icons8.com/?size=256&id=2572&format=png" alt="Certificado POO" height="100px" style="height:100px; width:auto;">
+  <img src="https://img.icons8.com/?size=256&id=13679&format=png" alt="Certificado POO" height="100px" style="height:100px; width:auto;">
 </a>
 
 <a href="https://enlace-certificado-Git" target="_blank">
