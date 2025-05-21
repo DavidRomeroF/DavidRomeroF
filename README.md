@@ -7,8 +7,9 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-[![Cert](https://github.com/user-attachments/assets/bda981c2-7a76-4695-85d5-40cd1f576a52)](https://www.credly.com/badges/03797cdc-1407-40b1-831d-c025ee7b29d9/linked_in_profile)<br>
-<img src="https://github.com/user-attachments/assets/bda981c2-7a76-4695-85d5-40cd1f576a52" alt="Cert" height="28px" style="height:28px; width:auto;">
+<a href="https://www.credly.com/badges/03797cdc-1407-40b1-831d-c025ee7b29d9/linked_in_profile" target="_blank">
+  <img src="https://github.com/user-attachments/assets/bda981c2-7a76-4695-85d5-40cd1f576a52" alt="Certificado" height="28px" style="height: 28px; width: auto;">
+</a>
 
 
 # 📊 GitHub Stats:
