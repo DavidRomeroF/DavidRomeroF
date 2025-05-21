@@ -35,5 +35,13 @@
 <a href="https://www.credly.com/badges/ab7d78cb-8b60-41c6-863f-03e45cf29450/linked_in_profile" target="_blank">
   <img src="https://github.com/user-attachments/assets/a39f5722-7ffa-484d-af25-873f2f35fdde" alt="AWS Cloud Quest: Security Foundations" height="100px" style="height:100px; width:auto;">
 </a>
+<a href="https://enlace-certificado-POO" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Certificado POO" height="100px" style="height:100px; width:auto;">
+</a>
+
+<a href="https://enlace-certificado-Git" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="Certificado Git" height="100px" style="height:100px; width:auto;">
+</a>
+
 
 
