@@ -39,8 +39,8 @@
   <img src="https://img.icons8.com/?size=256&id=13679&format=png" alt="Certificado POO" height="100px" style="height:100px; width:auto;">
 </a>
 
-<a href="https://enlace-certificado-Git" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="Certificado Git" height="100px" style="height:100px; width:auto;">
+<a href="https://ude.my/UC-6e4edb72-f1d1-47c1-979e-9d290a6c8155" target="_blank">
+  <img src="https://img.icons8.com/?size=256&id=20906&format=png" alt="Certificado Git" height="100px" style="height:100px; width:auto;">
 </a>
 
 
